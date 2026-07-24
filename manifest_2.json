@@ -1,0 +1,16 @@
+{
+  "name": "Marikopo Secondary School",
+  "short_name": "Marikopo",
+  "description": "Salvation Army School - Dema, Seke - Truth, Service & Discipline",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0F172A",
+  "theme_color": "#991B1B",
+  "icons": [
+    {
+      "src": "images/salvation-army-crest.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
